@@ -15,3 +15,5 @@ it is facing.
 ## To Run the project
 1) cd .\target\classes\
 2) java com.MarsRover.MarsRover
+
+and i use junit to run different test cases
